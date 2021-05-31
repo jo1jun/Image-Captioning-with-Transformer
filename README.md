@@ -85,7 +85,7 @@ Image_Captioning_Attention_ViT.ipynb 의 경우
 3. 생성한 patch 마다의 feature 들과 caption 을 attention 을 활용하여 학습하였다. (Transformer Decoder 이용)
 4. caption 의 word 마다 어떠한 patch 를 attention 하는 지 시각화 하였다.
 
-(현재 보인 attention 은 잘 된 케이스이고 일반화가 덜 되어있다. 추후에 개선.)
+(현재 보인 attention 은 그나마 잘 된 케이스이고 일반화가 덜 되어있다. word 마다 특정 patch 에 attention 하는 detail 이 부족하다. 추후에 개선.)
 
 
 preprosessing 은 
