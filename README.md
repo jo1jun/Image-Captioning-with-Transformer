@@ -30,7 +30,7 @@ Mean Attention
   
 ![image](https://user-images.githubusercontent.com/68524289/120185605-648a7d00-c24d-11eb-9c7f-3624728e8e94.png)
 
-All Attention
+All Attention (4 heads)
 
   the
 
